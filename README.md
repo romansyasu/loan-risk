@@ -7,3 +7,5 @@ where debtors stop repaying their loans, causing losses to the lenders. To mitig
 this loss, lenders are expected to appropriately choose who are qualified for a loan,
 at what rate, and at what amount.
 
+The ipynb file doesn't show the plot from plotly, please check it out here :
+https://nbviewer.jupyter.org/github/romansyasu/loan-risk/blob/master/homeCredit.ipynb
